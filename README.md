@@ -152,10 +152,12 @@ This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-sp
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@inproceedings{jin2025planargs,
-  title     = {PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors},
-  author    = {Xirui Jin and Renbiao Jin and Boying Li and Danping Zou and Wenxian Yu},
-  year      = {2025},
-  booktitle = {Proceedings of the 39th International Conference on Neural Information Processing Systems}
+@inproceedings{
+    jin2026planargs,
+    title={Planar{GS}: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors},
+    author={Xirui Jin and Renbiao Jin and Boying Li and Danping Zou and Wenxian Yu},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+    year={2026},
+    url={https://openreview.net/forum?id=38GF07Tmtr}
 }
 ```
